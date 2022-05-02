@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0E3A567A-CAAF-48AD-B9E8-7B7026818BD9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9B772A7-67DA-463C-BF2D-CF02B47BCF50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IMC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F9B772A7-67DA-463C-BF2D-CF02B47BCF50 - 25384514f23f898"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.ViewController.tfWeight.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesaparecidosilvacarneiro/Desktop/Projects%20IOS/IMC/IMC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "F9B772A7-67DA-463C-BF2D-CF02B47BCF50 - 8e0f1f5c5dbed7ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.ViewController.tfWeight.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesaparecidosilvacarneiro/Desktop/Projects%20IOS/IMC/IMC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F9B772A7-67DA-463C-BF2D-CF02B47BCF50 - 2a09f3c542a88ded"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.ViewController.tfWeight.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesaparecidosilvacarneiro/Desktop/Projects%20IOS/IMC/IMC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F9B772A7-67DA-463C-BF2D-CF02B47BCF50 - e1482655e4107af0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.ViewController.tfWeight.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesaparecidosilvacarneiro/Desktop/Projects%20IOS/IMC/IMC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F9B772A7-67DA-463C-BF2D-CF02B47BCF50 - 40cf301bf4bc723"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IMC.ViewController"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesaparecidosilvacarneiro/Desktop/Projects%20IOS/IMC/IMC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "F9B772A7-67DA-463C-BF2D-CF02B47BCF50 - 62ed808ee611369c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IMC.ViewController&gt;"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesaparecidosilvacarneiro/Desktop/Projects%20IOS/IMC/IMC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F7F276D-ADE7-466C-BC52-F692A2FB2EE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IMC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
